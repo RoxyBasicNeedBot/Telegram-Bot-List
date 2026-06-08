@@ -3,7 +3,7 @@
 <div align="center">
 
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![Bots](https://img.shields.io/badge/Bots-5-blue?style=for-the-badge)
+![Bots](https://img.shields.io/badge/Bots-9-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 ![Users](https://img.shields.io/badge/Users-10K+-orange?style=for-the-badge)
 
@@ -32,7 +32,7 @@ Our collection of Telegram bots brings **enterprise-level functionality** to you
 **[@autoforwardroxybot](https://t.me/autoforwardroxybot)**
 
 <div align="center">
-<img src="https://i.ibb.co/C3VN2XtX/file-29428.jpg" alt="Auto Forward Bot" width="600"/>
+<img src="https://i.ibb.co/YBxmvxvN/x.jpg" alt="Auto Forward Bot" width="600"/>
 </div>
 
 > 🎯 **Advanced forwarding bot with special features**
@@ -54,7 +54,7 @@ Our collection of Telegram bots brings **enterprise-level functionality** to you
 **[@Saverestrictedcontactroxybot](https://t.me/Saverestrictedcontactroxybot)**
 
 <div align="center">
-<img src="https://i.ibb.co/0pZKF5xQ/file-29429.jpg" alt="Save Restricted Content Bot" width="600"/>
+<img src="https://i.ibb.co/p6L2yfKT/x.jpg" alt="Save Restricted Content Bot" width="600"/>
 </div>
 
 > 🔒 **Save posts even from channels or groups with forwarding disabled**
@@ -72,11 +72,11 @@ Our collection of Telegram bots brings **enterprise-level functionality** to you
 
 ---
 
-### 3️⃣ User ID Bot 🪪
+### 3️⃣ 🪪 Telegram ID | 👤 User Info | ⚡️ Quick Id Bot
 **[@useridroxybot](https://t.me/useridroxybot)**
 
 <div align="center">
-<img src="https://i.ibb.co/tpCSMCCn/file-29430.jpg" alt="User ID Bot" width="600"/>
+<img src="https://i.ibb.co/0p57Kqcv/x.jpg" alt="User ID Bot" width="600"/>
 </div>
 
 > 👤 **Get any Chat ID instantly with just one click! 🚀**
@@ -98,7 +98,7 @@ Our collection of Telegram bots brings **enterprise-level functionality** to you
 **[@filerenameroxybot](https://t.me/filerenameroxybot)**
 
 <div align="center">
-<img src="https://i.ibb.co/tTrgTHGJ/file-29431.jpg" alt="File Rename Bot" width="600"/>
+<img src="https://i.ibb.co/Rp21njFD/x.jpg" alt="File Rename Bot" width="600"/>
 </div>
 
 > ✨ **Advanced File Tool - Rename • Thumb • Caption • Convert**
@@ -121,7 +121,7 @@ Our collection of Telegram bots brings **enterprise-level functionality** to you
 **[@roxyxmanagmentbot](https://t.me/roxyxmanagmentbot)**
 
 <div align="center">
-<img src="https://i.ibb.co/fYJvKhfB/file-29432.jpg" alt="Roxy Management Bot" width="600"/>
+<img src="https://i.ibb.co/BVrTZ1y5/x.jpg" alt="Roxy Management Bot" width="600"/>
 </div>
 
 > 💫 **Smart group management bot with auto moderation & admin tools**
@@ -136,6 +136,95 @@ Our collection of Telegram bots brings **enterprise-level functionality** to you
 
 ```bash
 💡 Perfect for: Group admins, Community managers, Server moderators
+```
+
+---
+
+### 6️⃣ Zip Maker Bot ⚡️
+**[@ZipMakerroxyBot](https://t.me/ZipMakerroxyBot)**
+
+<div align="center">
+<img src="https://i.ibb.co/G3CNRm7h/x.jpg" alt="Zip Maker Bot" width="600"/>
+</div>
+
+> 📦 **Create ZIP archives from your files instantly!**
+
+**What it does:**
+- 🗜️ Compress multiple files into a single ZIP
+- 📁 Batch file archiving support
+- ⚡️ Fast compression engine
+- 💾 Supports all file types
+- 📤 Direct download after creation
+
+```bash
+💡 Perfect for: File managers, Developers, Content organizers
+```
+
+---
+
+### 7️⃣ PDF Tool Bot ⚡️
+**[@pdfroxybot](https://t.me/pdfroxybot)**
+
+<div align="center">
+<img src="https://i.ibb.co/hRxMnWQB/photo-AQADNBBrG7nyMVV9.jpg" alt="PDF Tool Bot" width="600"/>
+</div>
+
+> 📄 **All-in-one PDF toolkit right inside Telegram!**
+
+**What it does:**
+- 🔗 Merge multiple PDFs into one
+- ✂️ Split PDFs into separate pages
+- 🔒 Password protect your PDFs
+- 🖼️ Convert images to PDF
+- 📝 Extract text from PDFs
+- ⚡️ Lightning-fast processing
+
+```bash
+💡 Perfect for: Students, Professionals, Document managers
+```
+
+---
+
+### 8️⃣ Unzip Bot ⚡️
+**[@unziproxybot](https://t.me/unziproxybot)**
+
+<div align="center">
+<img src="https://i.ibb.co/4RP6PfWQ/photo-AQADNhBrG7nyMVV9.jpg" alt="Unzip Bot" width="600"/>
+</div>
+
+> 📂 **Extract ZIP, RAR & archive files directly in Telegram!**
+
+**What it does:**
+- 🗂️ Extract ZIP, RAR, TAR, and more
+- 📤 Get files delivered instantly
+- 🔍 Preview archive contents
+- ⚡️ Fast extraction engine
+- 💾 Supports large archive files
+
+```bash
+💡 Perfect for: Developers, File sharers, Power users
+```
+
+---
+
+### 9️⃣ 🖼 Image To Link Bot | 🔗 Img To URL Bot
+**[@imagetolinkroxybot](https://t.me/imagetolinkroxybot)**
+
+<div align="center">
+<img src="https://i.ibb.co/DPqcFJ6b/photo-AQADNxBrG7nyMVV9.jpg" alt="Image To Link Bot" width="600"/>
+</div>
+
+> 🔗 **Upload any image and get a permanent shareable URL instantly!**
+
+**What it does:**
+- 🖼️ Convert images to direct shareable links
+- 🔗 Generate permanent image URLs
+- 📋 Copy-ready links in one tap
+- 🌐 Works with all image formats
+- ⚡️ Instant upload & link generation
+
+```bash
+💡 Perfect for: Developers, Designers, Content creators
 ```
 
 ---
@@ -187,7 +276,7 @@ Unlock the full potential with premium subscription:
 | Metric | Count |
 |--------|-------|
 | 👥 **Total Users** | 10,000+ |
-| 🤖 **Active Bots** | 5 |
+| 🤖 **Active Bots** | 9 |
 | 📨 **Messages Processed** | 1M+ |
 | ⭐ **Average Rating** | 4.8/5 |
 
@@ -271,5 +360,5 @@ These bots are provided as-is for personal and commercial use. Please use respon
 
 ---
 
-**Last Updated**: November 2025
-**Version**: 2.0.0
+**Last Updated**: June 2026
+**Version**: 3.0.0
