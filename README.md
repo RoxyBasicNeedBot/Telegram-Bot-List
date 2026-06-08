@@ -3,7 +3,7 @@
 <div align="center">
 
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![Bots](https://img.shields.io/badge/Bots-9-blue?style=for-the-badge)
+![Bots](https://img.shields.io/badge/Bots-10-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 ![Users](https://img.shields.io/badge/Users-10K+-orange?style=for-the-badge)
 
@@ -51,7 +51,7 @@ Our collection of Telegram bots brings **enterprise-level functionality** to you
 ---
 
 ### 2️⃣ Save Restricted Content Bot ⚡️
-**[@Saverestrictedcontactroxybot](https://t.me/Saverestrictedcontactroxybot)** &nbsp; <a href="https://github.com/RoxyBasicNeedBot/TXT-TO-VIDEO-LEECH-UPLOADER"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/></a>
+**[@Saverestrictedcontactroxybot](https://t.me/Saverestrictedcontactroxybot)**
 
 <div align="center">
 <img src="https://i.ibb.co/p6L2yfKT/x.jpg" alt="Save Restricted Content Bot" width="600"/>
@@ -72,8 +72,42 @@ Our collection of Telegram bots brings **enterprise-level functionality** to you
 
 ---
 
-### 3️⃣ 🪪 Telegram ID | 👤 User Info | ⚡️ Quick Id Bot
-**[@useridroxybot](https://t.me/useridroxybot)** &nbsp; <a href="https://github.com/RoxyBasicNeedBot/Telegram-ID-User-Info-Quick-ID-Bot"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/></a>
+### 3️⃣ 📄 TXT to Video Leech Uploader ⚡️
+**[@roxybasicneedbot1](https://t.me/roxybasicneedbot1)**
+
+<div align="center">
+<a href="https://github.com/RoxyBasicNeedBot/TXT-TO-VIDEO-LEECH-UPLOADER">
+<img src="https://img.shields.io/badge/⚡%20SOURCE%20CODE-FF0000?style=for-the-badge&logo=github&logoColor=white&labelColor=CC0000" alt="GitHub Repo" height="45"/>
+</a>
+</div>
+
+<br>
+
+> 🎬 **Upload video links from TXT files directly to Telegram!**
+
+**What it does:**
+- 📄 Parse video URLs from TXT files
+- 🎬 Leech & upload videos to Telegram
+- ⚡️ Batch processing support
+- 🔗 Supports multiple video sources
+- 📤 Direct Telegram upload after leeching
+
+```bash
+💡 Perfect for: Content leechers, Media collectors, Power uploaders
+```
+
+---
+
+### 4️⃣ 🪪 Telegram ID | 👤 User Info | ⚡️ Quick Id Bot
+**[@useridroxybot](https://t.me/useridroxybot)**
+
+<div align="center">
+<a href="https://github.com/RoxyBasicNeedBot/Telegram-ID-User-Info-Quick-ID-Bot">
+<img src="https://img.shields.io/badge/⚡%20SOURCE%20CODE-FF0000?style=for-the-badge&logo=github&logoColor=white&labelColor=CC0000" alt="GitHub Repo" height="45"/>
+</a>
+</div>
+
+<br>
 
 <div align="center">
 <img src="https://i.ibb.co/0p57Kqcv/x.jpg" alt="User ID Bot" width="600"/>
@@ -94,8 +128,16 @@ Our collection of Telegram bots brings **enterprise-level functionality** to you
 
 ---
 
-### 4️⃣ File Rename Bot ⚡️
-**[@filerenameroxybot](https://t.me/filerenameroxybot)** &nbsp; <a href="https://github.com/RoxyBasicNeedBot/File-Rename-4GB-Bot-Auto-Rename-Bot"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/></a>
+### 5️⃣ File Rename Bot ⚡️
+**[@filerenameroxybot](https://t.me/filerenameroxybot)**
+
+<div align="center">
+<a href="https://github.com/RoxyBasicNeedBot/File-Rename-4GB-Bot-Auto-Rename-Bot">
+<img src="https://img.shields.io/badge/⚡%20SOURCE%20CODE-FF0000?style=for-the-badge&logo=github&logoColor=white&labelColor=CC0000" alt="GitHub Repo" height="45"/>
+</a>
+</div>
+
+<br>
 
 <div align="center">
 <img src="https://i.ibb.co/Rp21njFD/x.jpg" alt="File Rename Bot" width="600"/>
@@ -117,7 +159,7 @@ Our collection of Telegram bots brings **enterprise-level functionality** to you
 
 ---
 
-### 5️⃣ Roxy X Management Bot ⚡️
+### 6️⃣ Roxy X Management Bot ⚡️
 **[@roxyxmanagmentbot](https://t.me/roxyxmanagmentbot)**
 
 <div align="center">
@@ -140,8 +182,16 @@ Our collection of Telegram bots brings **enterprise-level functionality** to you
 
 ---
 
-### 6️⃣ Zip Maker Bot ⚡️
-**[@ZipMakerroxyBot](https://t.me/ZipMakerroxyBot)** &nbsp; <a href="https://github.com/RoxyBasicNeedBot/Zip-Maker-Bot-Zip-Creater-Bot"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/></a>
+### 7️⃣ Zip Maker Bot ⚡️
+**[@ZipMakerroxyBot](https://t.me/ZipMakerroxyBot)**
+
+<div align="center">
+<a href="https://github.com/RoxyBasicNeedBot/Zip-Maker-Bot-Zip-Creater-Bot">
+<img src="https://img.shields.io/badge/⚡%20SOURCE%20CODE-FF0000?style=for-the-badge&logo=github&logoColor=white&labelColor=CC0000" alt="GitHub Repo" height="45"/>
+</a>
+</div>
+
+<br>
 
 <div align="center">
 <img src="https://i.ibb.co/G3CNRm7h/x.jpg" alt="Zip Maker Bot" width="600"/>
@@ -162,7 +212,7 @@ Our collection of Telegram bots brings **enterprise-level functionality** to you
 
 ---
 
-### 7️⃣ PDF Tool Bot ⚡️
+### 8️⃣ PDF Tool Bot ⚡️
 **[@pdfroxybot](https://t.me/pdfroxybot)**
 
 <div align="center">
@@ -185,7 +235,7 @@ Our collection of Telegram bots brings **enterprise-level functionality** to you
 
 ---
 
-### 8️⃣ Unzip Bot ⚡️
+### 9️⃣ Unzip Bot ⚡️
 **[@unziproxybot](https://t.me/unziproxybot)**
 
 <div align="center">
@@ -207,7 +257,7 @@ Our collection of Telegram bots brings **enterprise-level functionality** to you
 
 ---
 
-### 9️⃣ 🖼 Image To Link Bot | 🔗 Img To URL Bot
+### 🔟 🖼 Image To Link Bot | 🔗 Img To URL Bot
 **[@imagetolinkroxybot](https://t.me/imagetolinkroxybot)**
 
 <div align="center">
@@ -276,7 +326,7 @@ Unlock the full potential with premium subscription:
 | Metric | Count |
 |--------|-------|
 | 👥 **Total Users** | 10,000+ |
-| 🤖 **Active Bots** | 9 |
+| 🤖 **Active Bots** | 10 |
 | 📨 **Messages Processed** | 1M+ |
 | ⭐ **Average Rating** | 4.8/5 |
 
@@ -361,4 +411,4 @@ These bots are provided as-is for personal and commercial use. Please use respon
 ---
 
 **Last Updated**: June 2026
-**Version**: 3.0.0
+**Version**: 3.1.0
